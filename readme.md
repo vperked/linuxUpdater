@@ -1,11 +1,14 @@
 # DareUpdater
 
 ## Overview
-DareUpdater is a tool designed to help you update your projects with ease. This README will guide you through setting up the environment and running the application.
+dareMonitor repo
 
 ## Prerequisites
 - Python 3.6 or higher
 - `virtualenv` package
+
+## To Do
+- Add Upgrade for Windows based systems
 
 ## Setup
 
@@ -21,10 +24,6 @@ python3 -m venv env
 ```
 
 Activate the virtual environment:
-- On Windows:
-    ```bash
-    .\env\Scripts\activate
-    ```
 - On macOS and Linux:
     ```bash
     source env/bin/activate
