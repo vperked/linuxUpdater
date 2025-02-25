@@ -1,14 +1,11 @@
 # DareUpdater
 
 ## Overview
-dareMonitor repo
+dareUpdater can update your system and install all of your needed packages on new machines in seconds, dareUpdater can also install openVPN & whitelist your ip to port 22.
 
 ## Prerequisites
 - Python 3.6 or higher
 - `virtualenv` package
-
-## To Do
-- Add Upgrade for Windows based systems
 
 ## Setup
 
